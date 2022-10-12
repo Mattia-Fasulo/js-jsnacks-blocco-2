@@ -7,3 +7,12 @@
 #result {
     height: 30px;
 }
+
+table {
+    border: 2px solid black;
+}
+
+td{
+    border-bottom: 2px solid black;
+    padding: 5px;
+}
