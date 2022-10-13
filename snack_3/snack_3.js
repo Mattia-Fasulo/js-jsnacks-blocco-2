@@ -17,8 +17,8 @@ for( i = 0; i < arrNum.length; i++){
 
 let calc = function(){
     contRes.innerHTML = "";
-    let messaggio = document.createElement('p');
-    let risultato = document.createElement('p');
+    let messaggio = document.createElement('div');
+    let risultato = document.createElement('div');
     let somma = 0;
 
     for(x = 0; x < arrNum.length; x++){
